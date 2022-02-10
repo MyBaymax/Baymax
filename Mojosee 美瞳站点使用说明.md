@@ -10,6 +10,11 @@
 
 #### 置顶连接格式
 
+| key     | 说明                      | value                                         |
+| ------- | ------------------------- | --------------------------------------------- |
+| handles | 指定要置顶的产品          | el：`产品1handle`,`产品2handle`,`产品3handle` |
+| page    | 当前页码（可选，默认为1） | el: 1                                         |
+
 /collections/`系列handle`?handles=`产品1handle`,`产品2handle`,`产品3handle`
 
 例子：https://mojosee.com/collections/top-link?handles=gf10,mojosee-angel-ice-angel-drops-blue-colored-contact-lenses,mojosee-aurora-grey-colored-contact-lenses
