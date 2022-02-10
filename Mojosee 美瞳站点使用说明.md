@@ -4,7 +4,7 @@
 
 ### 1、将系列模版设置为toplink模版
 
-**<span style="color:red;">注意：想要使用置顶链接的系列其产品总数量最大值为50*</span>**
+**<span style="color:red;">注意：想要使用置顶链接的系列其产品总数量最大值为50</span>**
 
 ![image-20220210155247519](https://raw.githubusercontent.com/MyBaymax/assets/master/img/image-20220210155247519.png)
 
