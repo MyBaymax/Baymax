@@ -22,9 +22,6 @@
 例子：https://mojosee.com/collections/top-link?handles=gf10,mojosee-angel-ice-angel-drops-blue-colored-contact-lenses,mojosee-aurora-grey-colored-contact-lenses
 
 **[如何查看handle](https://shopify.dev/api/liquid/objects/handle)**
-<<<<<<< Updated upstream
-=======
-
 
 
 ## 男瞳退回女瞳站方法（删除男瞳cookie）
@@ -52,4 +49,3 @@ setCookie('cookie_mojo_mens', '', 0)
 
 
 ### 3、关闭当前页面，打开mojosee女瞳的链接，即可访问女瞳，如首页
->>>>>>> Stashed changes
