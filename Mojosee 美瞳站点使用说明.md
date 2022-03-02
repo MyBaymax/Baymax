@@ -24,6 +24,7 @@
 **[如何查看handle](https://shopify.dev/api/liquid/objects/handle)**
 
 
+
 ## 男瞳退回女瞳站方法（删除男瞳cookie）
 
 ### 1、打开开发者工具
@@ -34,7 +35,7 @@
 
 
 
-#### 2、删除男瞳cookie
+### 2、删除男瞳cookie
 
 1、在开发工具中选择 控制台/console(标记1) 界面
 
